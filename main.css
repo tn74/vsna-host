@@ -1,5 +1,5 @@
 :root {
-    --color-bg-default: #ff0000 !important;
+    --color-bg-default: #fffef5 !important;
 }
 .notion-toggle__summary {
   display: none !important;
